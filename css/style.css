@@ -302,12 +302,12 @@ footer{
         padding-left: 8vw;
     }
     .app__team-content-card{
-        width: 80vw;
+        max-width: 80vw;
         height: 48vh;
         
     }
     .userImg{
-        width: 70vw;
+        max-width: 70vw;
     }
     .app__social{
         gap: 12vw;
